@@ -6,7 +6,7 @@
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - 
 
-https://user-images.githubusercontent.com/87745990/127656977-4048553f-e03c-4871-8dce-4af5b7863687.gif
+(https://user-images.githubusercontent.com/87745990/127656977-4048553f-e03c-4871-8dce-4af5b7863687.gif)
 
 
 ## Articles
