@@ -43,6 +43,6 @@
 
 ## License
 
--Free and open-source licensed under the MIT License.
--I don't have the copyright on all sounds and photos in the game.
--I love all the soccer players. 2022 Son Heung-min Ballon d'Or Gazua!!!
+- Free and open-source licensed under the MIT License.
+- I don't have the copyright on all sounds and photos in the game.
+- I love all the soccer players. 2022 Son Heung-min Ballon d'Or Gazua!!!
