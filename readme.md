@@ -1,9 +1,14 @@
-<img src="icon.png" align="right" />
+# 2022 발롱도르 손흥민 
+> 손흥민 팬게임을 가장한 빙그레 바이럴 마케팅
 
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
+마케팅 대행업체에서 근무하는 개발자에게 빙그레에서 외주가 들어온 상황 가정 
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+-개발 중점사항
+1. 어떻게 하면 티 나지 않게 빙그레의 제품을 각인시킬 수 있겠는가?
+2. 축구나 손흥민을 좋아하는 팬들이 게임을 했을 때 재미가 있겠는가? 
+3. 축구나 손흥민에 관심이 없는 사람들도 게임을 즐길 수 있는가? 
+4. 빙그레의 이미지에 타격이 가지 않게 패러디의 선을 지켰는가?   
+
 
 ## Examples
 
