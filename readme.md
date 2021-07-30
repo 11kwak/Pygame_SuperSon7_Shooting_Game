@@ -27,21 +27,22 @@
 
 ## Meme Utilization
 
-- [Son Heung-min's Ice Cream Ad]
-- [Son Heung-min's father's voice]
-- [Funny pictures of soccer players]
+- Son Heung-min's Ice Cream Ad
+- Son Heung-min's father's voice
+- Funny pictures of soccer players
 
 
 ## Tools
 
-- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+- Python 3.9.6
+- VSCode
 
+## Credits
 
-
-## Contribute
-
-Contributions are always welcome!
+- SUANLAB YOUTUBE 
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+-Free and open-source licensed under the MIT License.
+-I don't have the copyright on all sounds and photos in the game.
+-I love all the soccer players. 2022 Son Heung-min Ballon d'Or Gazua!!!
