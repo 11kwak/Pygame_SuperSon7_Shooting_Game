@@ -4,9 +4,17 @@
   
 ## Features
 
-- [basic] - 
+- [basic] - Move, Fire, Life, Crash, Sound Effects, Collision Effect
 
 ![first](https://user-images.githubusercontent.com/87745990/127656977-4048553f-e03c-4871-8dce-4af5b7863687.gif)
+
+
+
+- [special] - Special Move, Weapon Upgrade
+
+![SECOND_1](https://user-images.githubusercontent.com/87745990/127659473-c5ae95fe-1d67-4993-8152-9b00b55964c5.gif)
+
+![SECOND](https://user-images.githubusercontent.com/87745990/127659582-e3bc95d4-2498-474a-8c1b-755d0d9c8ca9.gif)
 
 
 ## Articles
