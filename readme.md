@@ -45,4 +45,4 @@
 - I don't have the copyright on all sounds and photos in the game.
 - Just Fan Game, plz don't sue me. I love all the soccer players.
 - If there is a copyright issue, please send me an e-mail one1e@naver.com 
-- 2022 Son Heung-min Ballon d'Or Gazua!!!
+- 2022 Son Heung-min Ballon d'Or Fighting!!!
