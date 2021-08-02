@@ -37,7 +37,7 @@
 - Python 3.9.6
 - VSCode
 
-## Credits
+## Reference
 
 - SUANLAB YOUTUBE 
 
