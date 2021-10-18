@@ -1,4 +1,4 @@
-# 04서버프로그램구현_슈팅게임_곽원일                  SuperSon7 Shooting Game 
+# SuperSon7 Shooting Game 
 
 > 'Binggrae' Viral Marketing Pretending to Play Son Heung-min's Fan Game
   
