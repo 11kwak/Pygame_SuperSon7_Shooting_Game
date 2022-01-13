@@ -25,13 +25,6 @@
 
 
 
-## Meme Utilization
-
-- Son Heung-min's Ice Cream Ad
-- Son Heung-min's father's voice
-- Funny pictures of soccer players
-
-
 ## Tools
 
 - Python 3.9.6
