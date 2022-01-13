@@ -1,6 +1,6 @@
 # SuperSon7 Shooting Game 
 
-> 'Binggrae' Viral Marketing Pretending to Play Son Heung-min's Fan Game
+> Fan Game
   
 ## Features
 
